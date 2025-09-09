@@ -1,0 +1,29 @@
+[
+  {
+    "time": "2025-09-09T05:29:26.096Z",
+    "type": "HTTP",
+    "method": "GET",
+    "url": "https://jsonplaceholder.typicode.com/posts/1",
+    "status": 200,
+    "response": {
+      "userId": 1,
+      "id": 1,
+      "title": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+    }
+  },
+  {
+    "time": "2025-09-09T05:30:01.173Z",
+    "type": "WebSocket",
+    "url": "wss://ws.ifelse.io/",
+    "sent": "Hello AICTE",
+    "received": "Request served by 6e82931b755587"
+  },
+  {
+    "time": "2025-09-09T05:30:01.579Z",
+    "type": "WebSocket",
+    "url": "wss://ws.ifelse.io/",
+    "sent": "Hello AICTE",
+    "received": "Hello AICTE"
+  }
+]
